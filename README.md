@@ -39,6 +39,18 @@ era-artificial/
 
 ![Screenshot da Página](img/screenshot.png)
 
+📚 Sobre o Livro
+
+"Era Artificial - O Tempo Sombrio das Máquinas" apresenta um cenário apocalíptico onde robôs alcançaram independência e dominaram o planeta, levando a humanidade a uma luta pela sobrevivência.
+👨‍💻 Autor
+
+Diego Souza
+![Foto do autos](img/autor.jpg)
+Desenvolvedor Web e escritor de ficção científica do Rio de Janeiro.
+📜 Licença
+
+MIT License - © 2023 Diego Souza
+
 ## 🚀 Como Executar
 
 1. Clone o repositório:
@@ -71,17 +83,7 @@ git clone https://github.com/marciobruno-stack/era-artificial.git
   transform: translateY(-2px);
 }
 
-📚 Sobre o Livro
 
-"Era Artificial - O Tempo Sombrio das Máquinas" apresenta um cenário apocalíptico onde robôs alcançaram independência e dominaram o planeta, levando a humanidade a uma luta pela sobrevivência.
-👨‍💻 Autor
-
-Diego Souza
-![Capa do Livro](img/capa-livro.jpg)
-Desenvolvedor Web e escritor de ficção científica do Rio de Janeiro.
-📜 Licença
-
-MIT License - © 2023 Diego Souza
 
 
 Você precisará criar:
