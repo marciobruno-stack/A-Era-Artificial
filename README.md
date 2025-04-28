@@ -45,7 +45,9 @@ era-artificial/
 👨‍💻 Autor
 
 Diego Souza
+
 ![Foto do autos](img/autor.jpg)
+
 Desenvolvedor Web e escritor de ficção científica do Rio de Janeiro.
 📜 Licença
 
