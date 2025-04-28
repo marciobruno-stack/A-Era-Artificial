@@ -77,7 +77,7 @@ git clone https://github.com/marciobruno-stack/era-artificial.git
 👨‍💻 Autor
 
 Diego Souza
-Foto do Autor
+![Foto do Autos](img/autor.jpg)
 
 Desenvolvedor Web e escritor de ficção científica do Rio de Janeiro.
 📜 Licença
