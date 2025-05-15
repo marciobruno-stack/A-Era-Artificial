@@ -2,6 +2,9 @@
 
 ![Capa do Livro](img/capa-livro.jpg)
 
+## Link do projeto
+https://marciobruno-stack.github.io/A-Era-Artificial/
+
 Página web promocional para o livro de ficção científica "A Era Artificial" de Diego Souza.
 
 ## 📌 Visão Geral
